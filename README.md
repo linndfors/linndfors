@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 My name is Olha, I'm a Computer Science student in Ukrainian Catholic University.<br>
-I’m interested in working as Python developer.
-🌱 My skills: Python, Django, Flask, REST API, HTML/CSS, JavaScript, C++, AWS, SQL(Postgres, MySQL, SQLite)
+<br>
+I’m interested in working as Python developer.<br>
+🌱 My skills: Python, Django, Flask, REST API, HTML/CSS, JavaScript, C++, AWS, SQL(Postgres, MySQL, SQLite)<br>
 My contacts: [email](onahurna@gmail.com) and [Linkedin](https://www.linkedin.com/in/olha-nahurna-864396277/?originalSubdomain=ua)
 <!--
 **linndfors/linndfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
