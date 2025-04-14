@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Olha. I'm a knowledge engineer and Computer Science student at Ukrainian Catholic University.<br>
+My name is Olha.
 💬 My contacts: onahurna@gmail.com and [Linkedin](https://www.linkedin.com/in/olha-nahurna-864396277/?originalSubdomain=ua)
 <!--
 **linndfors/linndfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
